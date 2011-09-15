@@ -1,0 +1,15 @@
+This is a modified version of the shell script from NixCraft,
+see the link below for details:
+http://bash.cyberciti.biz/monitoring/get-system-information-in-html-format/
+
+Notes:
+ * I've modified this script to connect to multiple servers with different username 
+and passwords. 
+ * You may need to change the code for your custom shell.
+ * Check if 'declare' is available for your shell.
+
+TODO:
+ * Take style to seperate section.
+ * Remove 'declare' dependency.
+ * Check shell type.
+
